@@ -1,0 +1,11 @@
+{
+"country":"USA",
+"name":"Steve",
+"phoneNumber":"9039658939",
+"zipCode":"75414",
+"address":"2386 Alpha Avenue St.",
+"city":"Ontario",
+"state":"California",
+"creditCardNumber": "1234123412341234",
+"comment":"My some comment"
+  }

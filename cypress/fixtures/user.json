@@ -1,0 +1,10 @@
+{
+"email":"64testuser@gmail.com",
+"password":"qweqweqwe",
+"passwordRepeat":"qweqweqwe",
+"securityQuestion":{"id":2,
+"question":"Mother's maiden name?",
+"createdAt":"2023-11-23T20:48:56.358Z",
+"updatedAt":"2023-11-23T20:48:56.358Z"},
+"securityAnswer":"Ivanova"
+  }
